@@ -17,9 +17,9 @@ Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
 * Q4：[交互体系](https://github.com/OS-Q/Q4)
     * M10：[信息平台](https://github.com/OS-Q/M10)
         * W40：[数据转换](https://github.com/OS-Q/W40)
-        * W41：[数据同步](https://github.com/OS-Q/W41)
-        * W42：[色彩体系](https://github.com/OS-Q/W42)
-        * W43：[平面光学](https://github.com/OS-Q/W43)
+        * W41：[信息同步](https://github.com/OS-Q/W41)
+        * W42：[监控呈现](https://github.com/OS-Q/W42)
+        * W43：[色彩光学](https://github.com/OS-Q/W43)
     * M11：[显示平台](https://github.com/OS-Q/M11)
     * M12：[交互平台](https://github.com/OS-Q/M12)
 
