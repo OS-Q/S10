@@ -25,4 +25,3 @@ Edge-Q -> 体系 Q[1,4] -> 节点 M[1,12] -> 平台 W[1,52] -> 设备 D[1,365]
 
 ### [OS-Q : Operation System for edge devices](http://www.OS-Q.com/Edge/M10)
 ####  2019-7-6
-
