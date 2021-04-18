@@ -102,7 +102,7 @@ htmlreport/MANIFEST
 *.kdev4
 
 # Common cmake build directories
-build*
+# build*
 
 # Temporal files
 *.swp
